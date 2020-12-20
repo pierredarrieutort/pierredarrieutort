@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on the new extranet of [Ingeliance](https://www.ingeliance.com/)
 
-- 🌱 I’m currently learning **Strapi, ReactJS, React Native (soon 👌)**
+- 🌱 I’m currently learning **ThreeJS, GLSL**
 
 - 👨‍💻 All of my projects are available at [https://pierredarrieutort.fr/](https://pierredarrieutort.fr/)
 
