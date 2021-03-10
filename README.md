@@ -2,7 +2,7 @@
 <h3 align="center">A frontend interactive developer from Bordeaux, France</h3>
 <br/>
 
-- 🔭 I’m currently working on the new extranet of [Ingeliance](https://www.ingeliance.com/)
+- 🔭 I’m currently working on a lot of tools at [Ingeliance](https://www.ingeliance.com/)
 
 - 🌱 I’m currently learning **ThreeJS, GLSL**
 
