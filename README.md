@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pierredarrieutort.fr/](https://pierredarrieutort.fr/)
 
-- 💬 Ask me about **JS, GSAP, BarbaJS, design stuff**
+- 💬 Ask me about **JS, GSAP, BarbaJS, full-stack stuff**
 
 - 📫 How to reach me **p.darrieutort@outlook.fr**
 <br/>
